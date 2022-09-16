@@ -1,3 +1,5 @@
+//Comman Package for Practical 5 and Practical 6
+
 package P1;
 import java.util.*;
 
